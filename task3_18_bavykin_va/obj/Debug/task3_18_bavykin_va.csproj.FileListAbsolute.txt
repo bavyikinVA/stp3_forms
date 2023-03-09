@@ -1,0 +1,10 @@
+C:\Users\bavyk\source\STP\STP3\task3_18_bavykin_va\obj\Debug\task3_18_bavykin_va.csproj.AssemblyReference.cache
+C:\Users\bavyk\source\STP\STP3\task3_18_bavykin_va\obj\Debug\task3_18_bavykin_va.Properties.Resources.resources
+C:\Users\bavyk\source\STP\STP3\task3_18_bavykin_va\obj\Debug\task3_18_bavykin_va.csproj.GenerateResource.cache
+C:\Users\bavyk\source\STP\STP3\task3_18_bavykin_va\obj\Debug\task3_18_bavykin_va.csproj.CoreCompileInputs.cache
+C:\Users\bavyk\source\STP\STP3\task3_18_bavykin_va\bin\Debug\task3_18_bavykin_va.exe.config
+C:\Users\bavyk\source\STP\STP3\task3_18_bavykin_va\bin\Debug\task3_18_bavykin_va.exe
+C:\Users\bavyk\source\STP\STP3\task3_18_bavykin_va\bin\Debug\task3_18_bavykin_va.pdb
+C:\Users\bavyk\source\STP\STP3\task3_18_bavykin_va\obj\Debug\task3_18_bavykin_va.Form1.resources
+C:\Users\bavyk\source\STP\STP3\task3_18_bavykin_va\obj\Debug\task3_18_bavykin_va.exe
+C:\Users\bavyk\source\STP\STP3\task3_18_bavykin_va\obj\Debug\task3_18_bavykin_va.pdb
